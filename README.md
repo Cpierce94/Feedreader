@@ -1,6 +1,7 @@
 # How to Run
 
-The online version can be accessed at: 
+The online version can be accessed at: https://cpierce94.github.io/Feedreader/.
+
 Clone or download the repository to your machine. Extract the .zip file and then open index.html. 
 
 ## Why this Project?
